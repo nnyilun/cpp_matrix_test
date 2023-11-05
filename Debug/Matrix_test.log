@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\code\C++\Matrix_test\main.cpp(13,7): warning C4101: “p”: 未引用的局部变量
+  matrix.cpp
+D:\code\C++\Matrix_test\matrix.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\code\C++\Matrix_test\matrix.cpp(204,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\code\C++\Matrix_test\matrix.cpp(215,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+D:\code\C++\Matrix_test\main.cpp(24): warning C4172: 返回局部变量或临时变量的地址: temp
+  Matrix_test.vcxproj -> D:\code\C++\Matrix_test\Debug\Matrix_test.exe
